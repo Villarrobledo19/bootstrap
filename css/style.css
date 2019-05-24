@@ -1,0 +1,21 @@
+header.masthead{
+	background-image: url("../img/vuelofidji.jpg");
+}
+body{font-family: 'Arbutus', cursive;
+}
+.btn-primary {
+    background-color: green;
+    border-color: black;
+}
+.fab {
+color:blue;	
+background-color: white;
+font-size:3em ;
+border-radius:50%;
+padding:.1em;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+  box-shadow:5px 5px 50px black;
+}
