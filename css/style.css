@@ -1,7 +1,12 @@
 header.masthead{
 	background-image: url("../img/vuelofidji.jpg");
 }
-body{font-family: 'Arbutus', cursive;
+body{
+	font-family: 'italic', cursive;
+	font-size: 20px;
+	text-align: center;
+	color:white;
+	background-color:#7a7a52;
 }
 .btn-primary {
     background-color: green;
@@ -18,4 +23,7 @@ padding:.1em;
 .rounded-circle {
   border-radius: 50% !important;
   box-shadow:5px 5px 50px black;
+}
+h2{
+	color:#660029;
 }
